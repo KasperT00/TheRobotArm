@@ -7,6 +7,9 @@ The Robot uses slip ring planetary gearboxes between joints and has ratio of ~1:
 
 The first iteration did not have the gripper. Thus is not in the first picture. Goal of this arm was for it to be able to lift at least 500 grams. 
 
+After doing research, excel was used to calculate the required gear ratio and define the gear designs. The gears were then designed in FreeCAD using their gear add-in. This design was then exported and used in Fusion360 to furter design the overall gearbox.
+<img src="/Pictures/Compound_planetary_sheet.png" width="500"/>
+
 There is a lot of improvements that could be made to make this arm more robust. But the overall project is otherwise already wuite far.
 
 ## Electrical components
